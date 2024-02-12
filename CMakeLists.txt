@@ -43,7 +43,6 @@ ament_target_dependencies(${lib_name}
   rclcpp
   event_camera_msgs
   event_camera_codecs
-  dv_ros_msgs
 )
 install(
   TARGETS ${lib_name}

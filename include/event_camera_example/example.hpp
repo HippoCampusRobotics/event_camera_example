@@ -3,7 +3,6 @@
 #include <event_camera_codecs/decoder.h>
 #include <event_camera_codecs/decoder_factory.h>
 
-#include <dv_ros_msgs/msg/event_array.hpp>
 #include <event_camera_msgs/msg/event_packet.hpp>
 #include <rclcpp/rclcpp.hpp>
 
