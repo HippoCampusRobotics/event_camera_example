@@ -18,7 +18,6 @@
   <depend>rclcpp_components</depend>
   <depend>event_camera_msgs</depend>
   <depend>event_camera_codecs</depend>
-  <depend>dv-processing</depend>
 
   <!-- The export tag contains other, unspecified, tags -->
   <export>
